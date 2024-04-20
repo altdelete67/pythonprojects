@@ -1,4 +1,4 @@
-# Write your code here
+# This python project can calculate your Net Income of your fictional business. 
 print("Earned Amount: ")
 bubblegum = 202
 toffee = 118
